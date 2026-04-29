@@ -1,5 +1,0 @@
-{
-  "project": "Sailor Warriors — Чёрное Сердце Ангары",
-  "note": "Основной полный сюжет встроен в script.js как fallbackStoryData, чтобы игра запускалась локально при открытии index.html без сервера. На GitHub Pages файл story.json может быть заменён на полноценный JSON со свойством scenes.",
-  "scenesSource": "script.js"
-}
